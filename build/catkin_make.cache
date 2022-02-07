@@ -1,0 +1,2 @@
+lawnmover
+-DCATKIN_DEVEL_PREFIX=/home/aravic22/gitrepos/lawnmover_turtlesim/devel -DCMAKE_INSTALL_PREFIX=/home/aravic22/gitrepos/lawnmover_turtlesim/install -G Unix Makefiles
